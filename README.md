@@ -1,3 +1,27 @@
+# Spring Security Core.
+**in web.xml**
+
+<filter>
+  <filter-name>springSecurityFilterChain</filter-name>
+  <filter-class>org.springframework.web.filter.DeligatFilterProxy</filter-class>
+</filter>  
+
+<filter-mapping>
+  <filter-name>springSecurityFilterChain </filter-name>
+    <url-mapping> /*</url-mapping>
+</filter-mapping>
+
+**in spring-security.xml**
+
+
+we have to configure Authentication Manager, Security context(contains user information)
+
+
+
+
+
+
+
 # SpringSecurity
 
 5.2.1  SecurityContextHolder, SecurityContext and Authentication Objects
