@@ -52,3 +52,8 @@ https://stackoverflow.com/questions/16322067/csrf-generate-token-for-every-reque
 
 
 https://medium.com/@gtommee97/rest-authentication-with-spring-security-and-mongodb-28c06da25fb1
+
+# HTTP/2 
+
+http://qnimate.com/what-is-multiplexing-in-http2/
+
