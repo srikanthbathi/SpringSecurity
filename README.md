@@ -57,3 +57,7 @@ https://medium.com/@gtommee97/rest-authentication-with-spring-security-and-mongo
 
 http://qnimate.com/what-is-multiplexing-in-http2/
 
+# Network Performance
+
+https://accedian.com/enterprises/blog/measuring-network-performance-latency-throughput-packet-loss/
+
